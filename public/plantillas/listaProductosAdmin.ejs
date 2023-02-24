@@ -1,0 +1,18 @@
+<div class="listaAdminProductos">
+    <table>
+        <tr>
+            <th>Nombre</th>
+            <th>Calidad</th>
+            <th>Precio</th>
+        </tr>
+        <%productos.forEach(elem=>{%>
+            <tr>
+                <td><%=elem.nombre%></td>
+                <td><%=elem.calidad%></td>
+                <td><%=elem.precio%></td>
+                <td> <button onclick="return deleteProducto(`<%=elem._id%>`)">Eliminar</button></td>
+                <td> <button onclick="return updateProducto(`<%=elem._id%>`)">Editar</button></td>
+            </tr>
+        <%})%>
+    </table>
+</div>

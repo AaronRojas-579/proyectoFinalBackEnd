@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Muy Importante para el uso de Socket.io agregar este script -->
+    <script src="https://unpkg.com/ejs@3.1.8/ejs.min.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <title>CursoBackEnd</title>
+</head>
+<body>
+    <nav>
+
+    </nav>
+
+    <div class="containerAdminProductos">
+        <h2>Ingrese un Nuevo Producto</h2>
+        <!-- Creamos el Form para crear un nuevo Producto -->
+        <%- include('../partials/formNuevoPrducto.ejs') %>
+        <h2>Lista de Productos en la tienda</h2>
+        <!-- Mostramos lista de Productos -->
+        <div id="listaProductosAdmin"></div>
+    </div>
+
+    <!-- CHAT GLOBAL -->
+    <div class="chatGlobal">
+        <!-- Traemos el formulario del chat Global -->
+        <%- include('../partials/formChatGlobal.ejs') %>
+        <!-- Mostramos los mensajes  -->
+        <div id="mostarMensaje"></div>
+    </div>
+    <button><a href="/productos">Ver Lista de productos</a></button>
+    <button><a href="/jwt/logout">Cerrar Sesión</a></button>
+
+    <script src="/main.js"></script>
+</body>
+</html>

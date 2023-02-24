@@ -1,0 +1,1356 @@
+[2023-02-21T19:58:15.299] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:17.597] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:17.927] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:18.117] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:18.271] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:18.647] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:19.699] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:19.906] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:20.060] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:20.213] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:20.348] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:20.520] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:20.669] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:21.509] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:21.678] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:21.850] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:37.688] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:37.836] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:37.991] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:38.141] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:38.291] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:38.406] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:56.716] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:57.418] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:57.645] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:57.813] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:57.942] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:58.215] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:58:58.370] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:59:14.832] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:59:16.660] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:59:16.813] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:59:16.958] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:59:17.121] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T19:59:17.291] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T20:00:15.286] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T20:00:22.073] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T20:00:27.003] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T20:00:27.155] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T20:00:27.317] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T20:00:27.468] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T20:00:27.669] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T20:00:27.817] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T20:00:27.968] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T20:00:48.777] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T20:00:49.120] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T20:00:50.117] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T20:01:01.670] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T20:01:03.685] [ERROR] archivo2 - TypeError: this.model.insertOne is not a function
+    at MongoDB.save (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:35:34)
+    at Socket.<anonymous> (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\app.js:47:24)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\socket.io\dist\socket.js:703:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2023-02-21T20:03:13.589] [ERROR] archivo2 - Error: Mensajes validation failed: author.nombre: Path `author.nombre` is required., text: Path `text` is required.
+    at ValidationError.inspect (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\error\validation.js:50:26)
+    at formatValue (node:internal/util/inspect:763:19)
+    at inspect (node:internal/util/inspect:340:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2006:40)
+    at Object.format (node:internal/util/inspect:1880:10)
+    at basicLayout (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\layouts.js:65:52)
+    at app (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\appenders\file.js:98:23)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:43:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:42:21) {
+  errors: {
+    'author.nombre': ValidatorError: Path `author.nombre` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'author.nombre',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    text: ValidatorError: Path `text` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'text',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Mensajes validation failed'
+}
+[2023-02-21T20:03:14.412] [ERROR] archivo2 - Error: Mensajes validation failed: author.nombre: Path `author.nombre` is required., text: Path `text` is required.
+    at ValidationError.inspect (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\error\validation.js:50:26)
+    at formatValue (node:internal/util/inspect:763:19)
+    at inspect (node:internal/util/inspect:340:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2006:40)
+    at Object.format (node:internal/util/inspect:1880:10)
+    at basicLayout (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\layouts.js:65:52)
+    at app (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\appenders\file.js:98:23)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:43:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:42:21) {
+  errors: {
+    'author.nombre': ValidatorError: Path `author.nombre` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'author.nombre',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    text: ValidatorError: Path `text` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'text',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Mensajes validation failed'
+}
+[2023-02-21T20:03:14.742] [ERROR] archivo2 - Error: Mensajes validation failed: author.nombre: Path `author.nombre` is required., text: Path `text` is required.
+    at ValidationError.inspect (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\error\validation.js:50:26)
+    at formatValue (node:internal/util/inspect:763:19)
+    at inspect (node:internal/util/inspect:340:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2006:40)
+    at Object.format (node:internal/util/inspect:1880:10)
+    at basicLayout (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\layouts.js:65:52)
+    at app (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\appenders\file.js:98:23)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:43:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:42:21) {
+  errors: {
+    'author.nombre': ValidatorError: Path `author.nombre` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'author.nombre',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    text: ValidatorError: Path `text` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'text',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Mensajes validation failed'
+}
+[2023-02-21T20:03:14.904] [ERROR] archivo2 - Error: Mensajes validation failed: author.nombre: Path `author.nombre` is required., text: Path `text` is required.
+    at ValidationError.inspect (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\error\validation.js:50:26)
+    at formatValue (node:internal/util/inspect:763:19)
+    at inspect (node:internal/util/inspect:340:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2006:40)
+    at Object.format (node:internal/util/inspect:1880:10)
+    at basicLayout (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\layouts.js:65:52)
+    at app (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\appenders\file.js:98:23)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:43:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:42:21) {
+  errors: {
+    'author.nombre': ValidatorError: Path `author.nombre` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'author.nombre',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    text: ValidatorError: Path `text` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'text',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Mensajes validation failed'
+}
+[2023-02-21T20:03:15.075] [ERROR] archivo2 - Error: Mensajes validation failed: author.nombre: Path `author.nombre` is required., text: Path `text` is required.
+    at ValidationError.inspect (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\error\validation.js:50:26)
+    at formatValue (node:internal/util/inspect:763:19)
+    at inspect (node:internal/util/inspect:340:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2006:40)
+    at Object.format (node:internal/util/inspect:1880:10)
+    at basicLayout (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\layouts.js:65:52)
+    at app (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\appenders\file.js:98:23)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:43:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:42:21) {
+  errors: {
+    'author.nombre': ValidatorError: Path `author.nombre` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'author.nombre',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    text: ValidatorError: Path `text` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'text',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Mensajes validation failed'
+}
+[2023-02-21T20:03:15.234] [ERROR] archivo2 - Error: Mensajes validation failed: author.nombre: Path `author.nombre` is required., text: Path `text` is required.
+    at ValidationError.inspect (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\error\validation.js:50:26)
+    at formatValue (node:internal/util/inspect:763:19)
+    at inspect (node:internal/util/inspect:340:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2006:40)
+    at Object.format (node:internal/util/inspect:1880:10)
+    at basicLayout (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\layouts.js:65:52)
+    at app (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\appenders\file.js:98:23)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:43:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:42:21) {
+  errors: {
+    'author.nombre': ValidatorError: Path `author.nombre` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'author.nombre',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    text: ValidatorError: Path `text` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'text',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Mensajes validation failed'
+}
+[2023-02-21T20:03:15.384] [ERROR] archivo2 - Error: Mensajes validation failed: author.nombre: Path `author.nombre` is required., text: Path `text` is required.
+    at ValidationError.inspect (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\error\validation.js:50:26)
+    at formatValue (node:internal/util/inspect:763:19)
+    at inspect (node:internal/util/inspect:340:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2006:40)
+    at Object.format (node:internal/util/inspect:1880:10)
+    at basicLayout (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\layouts.js:65:52)
+    at app (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\appenders\file.js:98:23)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:43:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:42:21) {
+  errors: {
+    'author.nombre': ValidatorError: Path `author.nombre` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'author.nombre',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    text: ValidatorError: Path `text` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'text',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Mensajes validation failed'
+}
+[2023-02-21T20:03:15.536] [ERROR] archivo2 - Error: Mensajes validation failed: author.nombre: Path `author.nombre` is required., text: Path `text` is required.
+    at ValidationError.inspect (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\error\validation.js:50:26)
+    at formatValue (node:internal/util/inspect:763:19)
+    at inspect (node:internal/util/inspect:340:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2006:40)
+    at Object.format (node:internal/util/inspect:1880:10)
+    at basicLayout (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\layouts.js:65:52)
+    at app (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\appenders\file.js:98:23)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:43:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:42:21) {
+  errors: {
+    'author.nombre': ValidatorError: Path `author.nombre` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'author.nombre',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    text: ValidatorError: Path `text` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'text',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Mensajes validation failed'
+}
+[2023-02-21T20:03:15.701] [ERROR] archivo2 - Error: Mensajes validation failed: author.nombre: Path `author.nombre` is required., text: Path `text` is required.
+    at ValidationError.inspect (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\error\validation.js:50:26)
+    at formatValue (node:internal/util/inspect:763:19)
+    at inspect (node:internal/util/inspect:340:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2006:40)
+    at Object.format (node:internal/util/inspect:1880:10)
+    at basicLayout (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\layouts.js:65:52)
+    at app (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\appenders\file.js:98:23)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:43:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:42:21) {
+  errors: {
+    'author.nombre': ValidatorError: Path `author.nombre` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'author.nombre',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    text: ValidatorError: Path `text` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'text',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Mensajes validation failed'
+}
+[2023-02-21T20:03:16.152] [ERROR] archivo2 - Error: Mensajes validation failed: author.nombre: Path `author.nombre` is required., text: Path `text` is required.
+    at ValidationError.inspect (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\error\validation.js:50:26)
+    at formatValue (node:internal/util/inspect:763:19)
+    at inspect (node:internal/util/inspect:340:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2006:40)
+    at Object.format (node:internal/util/inspect:1880:10)
+    at basicLayout (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\layouts.js:65:52)
+    at app (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\appenders\file.js:98:23)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:43:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:42:21) {
+  errors: {
+    'author.nombre': ValidatorError: Path `author.nombre` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'author.nombre',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    text: ValidatorError: Path `text` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'text',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Mensajes validation failed'
+}
+[2023-02-21T20:03:21.299] [ERROR] archivo2 - Error: Mensajes validation failed: text: Path `text` is required.
+    at ValidationError.inspect (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\error\validation.js:50:26)
+    at formatValue (node:internal/util/inspect:763:19)
+    at inspect (node:internal/util/inspect:340:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2006:40)
+    at Object.format (node:internal/util/inspect:1880:10)
+    at basicLayout (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\layouts.js:65:52)
+    at app (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\appenders\file.js:98:23)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:43:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:42:21) {
+  errors: {
+    text: ValidatorError: Path `text` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'text',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Mensajes validation failed'
+}
+[2023-02-21T20:03:21.931] [ERROR] archivo2 - Error: Mensajes validation failed: author.nombre: Path `author.nombre` is required., text: Path `text` is required.
+    at ValidationError.inspect (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\error\validation.js:50:26)
+    at formatValue (node:internal/util/inspect:763:19)
+    at inspect (node:internal/util/inspect:340:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2006:40)
+    at Object.format (node:internal/util/inspect:1880:10)
+    at basicLayout (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\layouts.js:65:52)
+    at app (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\appenders\file.js:98:23)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:43:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:42:21) {
+  errors: {
+    'author.nombre': ValidatorError: Path `author.nombre` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'author.nombre',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    text: ValidatorError: Path `text` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'text',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Mensajes validation failed'
+}
+[2023-02-21T20:03:22.091] [ERROR] archivo2 - Error: Mensajes validation failed: author.nombre: Path `author.nombre` is required., text: Path `text` is required.
+    at ValidationError.inspect (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\error\validation.js:50:26)
+    at formatValue (node:internal/util/inspect:763:19)
+    at inspect (node:internal/util/inspect:340:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2006:40)
+    at Object.format (node:internal/util/inspect:1880:10)
+    at basicLayout (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\layouts.js:65:52)
+    at app (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\appenders\file.js:98:23)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:43:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:42:21) {
+  errors: {
+    'author.nombre': ValidatorError: Path `author.nombre` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'author.nombre',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    text: ValidatorError: Path `text` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'text',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Mensajes validation failed'
+}
+[2023-02-21T20:03:22.252] [ERROR] archivo2 - Error: Mensajes validation failed: author.nombre: Path `author.nombre` is required., text: Path `text` is required.
+    at ValidationError.inspect (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\error\validation.js:50:26)
+    at formatValue (node:internal/util/inspect:763:19)
+    at inspect (node:internal/util/inspect:340:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2006:40)
+    at Object.format (node:internal/util/inspect:1880:10)
+    at basicLayout (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\layouts.js:65:52)
+    at app (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\appenders\file.js:98:23)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:43:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:42:21) {
+  errors: {
+    'author.nombre': ValidatorError: Path `author.nombre` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'author.nombre',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    text: ValidatorError: Path `text` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'text',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Mensajes validation failed'
+}
+[2023-02-21T20:03:23.909] [ERROR] archivo2 - Error: Mensajes validation failed: author.nombre: Path `author.nombre` is required.
+    at ValidationError.inspect (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\error\validation.js:50:26)
+    at formatValue (node:internal/util/inspect:763:19)
+    at inspect (node:internal/util/inspect:340:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2006:40)
+    at Object.format (node:internal/util/inspect:1880:10)
+    at basicLayout (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\layouts.js:65:52)
+    at app (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\appenders\file.js:98:23)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:43:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\log4js\lib\log4js.js:42:21) {
+  errors: {
+    'author.nombre': ValidatorError: Path `author.nombre` is required.
+        at validate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1346:13)
+        at SchemaString.SchemaType.doValidate (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1330:7)
+        at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\document.js:2905:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'author.nombre',
+      value: '',
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Mensajes validation failed'
+}
+[2023-02-21T22:57:05.112] [ERROR] archivo2 - CastError: Cast to ObjectId failed for value "ejs" (type string) at path "_id" for model "Productos"
+    at model.Query.exec (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:4912:21)
+    at model.Query.Query.then (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:5011:15) {
+  messageFormat: undefined,
+  stringValue: '"ejs"',
+  kind: 'ObjectId',
+  value: 'ejs',
+  path: '_id',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\bson\lib\error.js:41:28)
+      at new ObjectId (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\bson\lib\objectid.js:67:23)
+      at castObjectId (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schema\objectid.js:246:12)
+      at ObjectId.SchemaType.applySetters (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1201:12)
+      at ObjectId.SchemaType._castForQuery (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1648:15)
+      at ObjectId.SchemaType.castForQuery (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1636:15)
+      at ObjectId.SchemaType.castForQueryWrapper (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1612:20)
+      at cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\cast.js:349:32)
+      at model.Query.Query.cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:5342:12),
+  valueType: 'string'
+}
+[2023-02-21T22:57:07.354] [ERROR] archivo2 - CastError: Cast to ObjectId failed for value "ejs" (type string) at path "_id" for model "Productos"
+    at model.Query.exec (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:4912:21)
+    at model.Query.Query.then (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:5011:15) {
+  messageFormat: undefined,
+  stringValue: '"ejs"',
+  kind: 'ObjectId',
+  value: 'ejs',
+  path: '_id',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\bson\lib\error.js:41:28)
+      at new ObjectId (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\bson\lib\objectid.js:67:23)
+      at castObjectId (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schema\objectid.js:246:12)
+      at ObjectId.SchemaType.applySetters (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1201:12)
+      at ObjectId.SchemaType._castForQuery (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1648:15)
+      at ObjectId.SchemaType.castForQuery (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1636:15)
+      at ObjectId.SchemaType.castForQueryWrapper (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1612:20)
+      at cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\cast.js:349:32)
+      at model.Query.Query.cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:5342:12),
+  valueType: 'string'
+}
+[2023-02-21T22:57:17.167] [ERROR] archivo2 - CastError: Cast to ObjectId failed for value "ejs" (type string) at path "_id" for model "Productos"
+    at model.Query.exec (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:4912:21)
+    at model.Query.Query.then (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:5011:15) {
+  messageFormat: undefined,
+  stringValue: '"ejs"',
+  kind: 'ObjectId',
+  value: 'ejs',
+  path: '_id',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\bson\lib\error.js:41:28)
+      at new ObjectId (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\bson\lib\objectid.js:67:23)
+      at castObjectId (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schema\objectid.js:246:12)
+      at ObjectId.SchemaType.applySetters (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1201:12)
+      at ObjectId.SchemaType._castForQuery (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1648:15)
+      at ObjectId.SchemaType.castForQuery (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1636:15)
+      at ObjectId.SchemaType.castForQueryWrapper (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1612:20)
+      at cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\cast.js:349:32)
+      at model.Query.Query.cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:5342:12),
+  valueType: 'string'
+}
+[2023-02-21T22:57:22.452] [ERROR] archivo2 - CastError: Cast to ObjectId failed for value "ejs" (type string) at path "_id" for model "Productos"
+    at model.Query.exec (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:4912:21)
+    at model.Query.Query.then (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:5011:15) {
+  messageFormat: undefined,
+  stringValue: '"ejs"',
+  kind: 'ObjectId',
+  value: 'ejs',
+  path: '_id',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\bson\lib\error.js:41:28)
+      at new ObjectId (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\bson\lib\objectid.js:67:23)
+      at castObjectId (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schema\objectid.js:246:12)
+      at ObjectId.SchemaType.applySetters (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1201:12)
+      at ObjectId.SchemaType._castForQuery (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1648:15)
+      at ObjectId.SchemaType.castForQuery (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1636:15)
+      at ObjectId.SchemaType.castForQueryWrapper (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1612:20)
+      at cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\cast.js:349:32)
+      at model.Query.Query.cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:5342:12),
+  valueType: 'string'
+}
+[2023-02-21T22:57:22.812] [ERROR] archivo2 - CastError: Cast to ObjectId failed for value "ejs" (type string) at path "_id" for model "Productos"
+    at model.Query.exec (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:4912:21)
+    at model.Query.Query.then (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:5011:15) {
+  messageFormat: undefined,
+  stringValue: '"ejs"',
+  kind: 'ObjectId',
+  value: 'ejs',
+  path: '_id',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\bson\lib\error.js:41:28)
+      at new ObjectId (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\bson\lib\objectid.js:67:23)
+      at castObjectId (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schema\objectid.js:246:12)
+      at ObjectId.SchemaType.applySetters (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1201:12)
+      at ObjectId.SchemaType._castForQuery (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1648:15)
+      at ObjectId.SchemaType.castForQuery (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1636:15)
+      at ObjectId.SchemaType.castForQueryWrapper (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1612:20)
+      at cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\cast.js:349:32)
+      at model.Query.Query.cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:5342:12),
+  valueType: 'string'
+}
+[2023-02-21T22:57:28.732] [ERROR] archivo2 - CastError: Cast to ObjectId failed for value "ejs" (type string) at path "_id" for model "Productos"
+    at model.Query.exec (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:4912:21)
+    at model.Query.Query.then (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:5011:15) {
+  messageFormat: undefined,
+  stringValue: '"ejs"',
+  kind: 'ObjectId',
+  value: 'ejs',
+  path: '_id',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\bson\lib\error.js:41:28)
+      at new ObjectId (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\bson\lib\objectid.js:67:23)
+      at castObjectId (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schema\objectid.js:246:12)
+      at ObjectId.SchemaType.applySetters (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1201:12)
+      at ObjectId.SchemaType._castForQuery (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1648:15)
+      at ObjectId.SchemaType.castForQuery (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1636:15)
+      at ObjectId.SchemaType.castForQueryWrapper (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1612:20)
+      at cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\cast.js:349:32)
+      at model.Query.Query.cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:5342:12),
+  valueType: 'string'
+}
+[2023-02-21T22:57:45.481] [ERROR] archivo2 - CastError: Cast to ObjectId failed for value "ejs" (type string) at path "_id" for model "Productos"
+    at model.Query.exec (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:4912:21)
+    at model.Query.Query.then (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:5011:15) {
+  messageFormat: undefined,
+  stringValue: '"ejs"',
+  kind: 'ObjectId',
+  value: 'ejs',
+  path: '_id',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\bson\lib\error.js:41:28)
+      at new ObjectId (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\bson\lib\objectid.js:67:23)
+      at castObjectId (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schema\objectid.js:246:12)
+      at ObjectId.SchemaType.applySetters (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1201:12)
+      at ObjectId.SchemaType._castForQuery (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1648:15)
+      at ObjectId.SchemaType.castForQuery (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1636:15)
+      at ObjectId.SchemaType.castForQueryWrapper (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1612:20)
+      at cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\cast.js:349:32)
+      at model.Query.Query.cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:5342:12),
+  valueType: 'string'
+}
+[2023-02-21T22:57:45.986] [ERROR] archivo2 - CastError: Cast to ObjectId failed for value "ejs" (type string) at path "_id" for model "Productos"
+    at model.Query.exec (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:4912:21)
+    at model.Query.Query.then (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:5011:15) {
+  messageFormat: undefined,
+  stringValue: '"ejs"',
+  kind: 'ObjectId',
+  value: 'ejs',
+  path: '_id',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\bson\lib\error.js:41:28)
+      at new ObjectId (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\bson\lib\objectid.js:67:23)
+      at castObjectId (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schema\objectid.js:246:12)
+      at ObjectId.SchemaType.applySetters (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1201:12)
+      at ObjectId.SchemaType._castForQuery (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1648:15)
+      at ObjectId.SchemaType.castForQuery (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1636:15)
+      at ObjectId.SchemaType.castForQueryWrapper (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1612:20)
+      at cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\cast.js:349:32)
+      at model.Query.Query.cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:5342:12),
+  valueType: 'string'
+}
+[2023-02-21T22:57:46.277] [ERROR] archivo2 - CastError: Cast to ObjectId failed for value "ejs" (type string) at path "_id" for model "Productos"
+    at model.Query.exec (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:4912:21)
+    at model.Query.Query.then (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:5011:15) {
+  messageFormat: undefined,
+  stringValue: '"ejs"',
+  kind: 'ObjectId',
+  value: 'ejs',
+  path: '_id',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\bson\lib\error.js:41:28)
+      at new ObjectId (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\bson\lib\objectid.js:67:23)
+      at castObjectId (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schema\objectid.js:246:12)
+      at ObjectId.SchemaType.applySetters (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1201:12)
+      at ObjectId.SchemaType._castForQuery (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1648:15)
+      at ObjectId.SchemaType.castForQuery (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1636:15)
+      at ObjectId.SchemaType.castForQueryWrapper (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1612:20)
+      at cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\cast.js:349:32)
+      at model.Query.Query.cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:5342:12),
+  valueType: 'string'
+}
+[2023-02-21T22:57:46.443] [ERROR] archivo2 - CastError: Cast to ObjectId failed for value "ejs" (type string) at path "_id" for model "Productos"
+    at model.Query.exec (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:4912:21)
+    at model.Query.Query.then (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:5011:15) {
+  messageFormat: undefined,
+  stringValue: '"ejs"',
+  kind: 'ObjectId',
+  value: 'ejs',
+  path: '_id',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\bson\lib\error.js:41:28)
+      at new ObjectId (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\bson\lib\objectid.js:67:23)
+      at castObjectId (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schema\objectid.js:246:12)
+      at ObjectId.SchemaType.applySetters (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1201:12)
+      at ObjectId.SchemaType._castForQuery (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1648:15)
+      at ObjectId.SchemaType.castForQuery (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1636:15)
+      at ObjectId.SchemaType.castForQueryWrapper (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1612:20)
+      at cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\cast.js:349:32)
+      at model.Query.Query.cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:5342:12),
+  valueType: 'string'
+}
+[2023-02-21T22:57:46.593] [ERROR] archivo2 - CastError: Cast to ObjectId failed for value "ejs" (type string) at path "_id" for model "Productos"
+    at model.Query.exec (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:4912:21)
+    at model.Query.Query.then (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:5011:15) {
+  messageFormat: undefined,
+  stringValue: '"ejs"',
+  kind: 'ObjectId',
+  value: 'ejs',
+  path: '_id',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\bson\lib\error.js:41:28)
+      at new ObjectId (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\bson\lib\objectid.js:67:23)
+      at castObjectId (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schema\objectid.js:246:12)
+      at ObjectId.SchemaType.applySetters (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1201:12)
+      at ObjectId.SchemaType._castForQuery (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1648:15)
+      at ObjectId.SchemaType.castForQuery (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1636:15)
+      at ObjectId.SchemaType.castForQueryWrapper (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\schematype.js:1612:20)
+      at cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\cast.js:349:32)
+      at model.Query.Query.cast (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\mongoose\lib\query.js:5342:12),
+  valueType: 'string'
+}
+[2023-02-22T16:35:38.389] [ERROR] archivo2 - ReferenceError: idABuscar is not defined
+    at MongoDB.updateById (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:64:53)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\routes\routes.productos.js:43:25
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:421:3)
+[2023-02-22T16:36:07.823] [ERROR] archivo2 - ReferenceError: idABuscar is not defined
+    at MongoDB.updateById (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:64:53)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\routes\routes.productos.js:43:25
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:421:3)
+[2023-02-22T16:36:28.201] [ERROR] archivo2 - ReferenceError: idABuscar is not defined
+    at MongoDB.updateById (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:64:53)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\routes\routes.productos.js:43:25
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:421:3)
+[2023-02-22T16:40:17.195] [ERROR] archivo2 - ReferenceError: idABuscar is not defined
+    at MongoDB.updateById (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:64:54)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\routes\routes.productos.js:43:25
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:421:3)
+[2023-02-22T16:41:35.573] [ERROR] archivo2 - ReferenceError: idABuscar is not defined
+    at MongoDB.updateById (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:64:54)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\routes\routes.productos.js:43:25
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:421:3)
+[2023-02-22T16:42:34.136] [ERROR] archivo2 - ReferenceError: idABuscar is not defined
+    at MongoDB.updateById (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\daos\dataBaseMongo.js:64:54)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\routes\routes.productos.js:43:25
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:421:3)
+[2023-02-23T18:13:28.976] [ERROR] archivo2 - ReferenceError: user is not defined
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\routes\routes.jwt.js:33:21
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:47:12)
+[2023-02-23T18:13:31.551] [ERROR] archivo2 - ReferenceError: user is not defined
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\routes\routes.jwt.js:33:21
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:47:12)
+[2023-02-23T18:13:31.972] [ERROR] archivo2 - ReferenceError: user is not defined
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\routes\routes.jwt.js:33:21
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:47:12)
+[2023-02-23T18:13:32.144] [ERROR] archivo2 - ReferenceError: user is not defined
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\routes\routes.jwt.js:33:21
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:47:12)
+[2023-02-23T18:13:32.309] [ERROR] archivo2 - ReferenceError: user is not defined
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\routes\routes.jwt.js:33:21
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:47:12)
+[2023-02-23T18:13:32.456] [ERROR] archivo2 - ReferenceError: user is not defined
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\routes\routes.jwt.js:33:21
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:47:12)
+[2023-02-23T18:13:34.161] [ERROR] archivo2 - ReferenceError: user is not defined
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\routes\routes.jwt.js:33:21
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:47:12)
+[2023-02-23T18:13:34.370] [ERROR] archivo2 - ReferenceError: user is not defined
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\routes\routes.jwt.js:33:21
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:47:12)
+[2023-02-23T18:13:41.360] [ERROR] archivo2 - ReferenceError: user is not defined
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\routes\routes.jwt.js:33:21
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:47:12)
+[2023-02-23T18:15:13.086] [ERROR] archivo2 - ReferenceError: user is not defined
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\routes\routes.jwt.js:32:42
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:47:12)
+[2023-02-23T18:15:27.449] [ERROR] archivo2 - ReferenceError: user is not defined
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\routes\routes.jwt.js:33:42
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:47:12)
+[2023-02-23T18:25:10.651] [ERROR] archivo2 - TypeError: Cannot read properties of null (reading 'data')
+    at userActual (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\middlewares\generarJwt.js:22:17)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\routes\routes.jwt.js:32:22
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\index.js:175:3)
+[2023-02-23T18:39:47.475] [ERROR] archivo2 - ReferenceError: Cannot access 'productos' before initialization
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\routes\routes.productos.js:14:27
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:144:13)
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\middlewares\authJWT.js:21:7
+    at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\jsonwebtoken\verify.js:261:12
+    at getSecret (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\jsonwebtoken\verify.js:97:14)
+    at Object.module.exports [as verify] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\jsonwebtoken\verify.js:101:10)
+    at auth (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\middlewares\authJWT.js:12:9)
+    at Layer.handle [as handle_request] (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\node_modules\express\lib\router\route.js:144:13)
+[2023-02-23T21:45:47.296] [ERROR] archivo2 - TypeError: Cannot read properties of undefined (reading 'findIndex')
+    at PedidosDB.agregarCarrito (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\service\service.pedidos.js:16:42)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-23T21:46:45.396] [ERROR] archivo2 - TypeError: Cannot read properties of undefined (reading 'findIndex')
+    at PedidosDB.agregarCarrito (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\service\service.pedidos.js:16:42)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-23T21:47:21.456] [ERROR] archivo2 - TypeError: Cannot read properties of undefined (reading 'findIndex')
+    at PedidosDB.agregarCarrito (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\service\service.pedidos.js:16:42)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-23T21:48:11.307] [ERROR] archivo2 - TypeError: Cannot read properties of undefined (reading 'findIndex')
+    at PedidosDB.agregarCarrito (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\service\service.pedidos.js:16:42)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)

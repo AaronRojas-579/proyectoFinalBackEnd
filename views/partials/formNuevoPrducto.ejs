@@ -1,0 +1,24 @@
+<form onsubmit="return addProducto(this)" id="formNuevoProducto" autocomplete="off" >
+    <!-- Campo nombre del Producto -->
+    <div class="inputFormulario">
+        <label for="nombre" class="textForm">Nombre</label>
+        <input type="text" name="nombre" id="nombre" required>
+    </div>
+    <!-- Campo calidad del Producto -->
+    <div class="inputFormulario">
+        <label for="caldiad" class="textForm">Calidad</label>
+        <select name="caldiad" id="calidad" required>
+            <option value="Alta">Alta</option>
+            <option value="Media">Media</option>
+            <option value="Baja">Baja</option>
+            <option value="" selected disabled>Ingrese la calidad</option>
+        </select>
+    </div>
+    <!-- Campo precio del Producto -->
+    <div class="inputFormulario">
+        <label for="precio" class="textForm">Precio</label>
+        <input type="number" id="precio" name="precio" required>
+    </div>
+    <!-- Boton Submit -->
+    <button class="subir">Crear</button>
+</form>
