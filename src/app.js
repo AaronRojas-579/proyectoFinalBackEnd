@@ -35,12 +35,17 @@ app.use("/carrito",routerCarrito)
 //Importamos la clase de mensajes para el chat Global 
 const mensajes = require("../service/service.mensajes.js")
 const productos = require("../service/service.productos.js")
+const pedidos = require("../service/service.pedidos")
 
 const {Server : HttpServer} = require("http")
 const {Server : IOServer} = require("socket.io")
 const httpServer = new HttpServer (app)
 //Configuración del socket.io
 const io =new IOServer(httpServer)
+
+
+//Usaremos el token para saber los datos del usuario 
+const {generarToken,yaExiste,userActual} = require("../src/middlewares/generarJwt")
 
 io.on('connection',async (socket) =>{
      loggerConsola.info(`Nuevo Cliente conectado`)
@@ -68,7 +73,21 @@ io.on('connection',async (socket) =>{
          productosListar = await productos.getAll()
          io.sockets.emit("productos",productosListar)
      })
+    //Configuración del socket.io para el carrito
+    var pedidosCarrito = await pedidos.getAll()
+    socket.emit("pedidosCarrito",pedidosCarrito)
+    socket.on("nuevoPedido",async pedido=>{
+        const user = userActual(pedido.token)
+        await pedidos.agregarCarrito(user,pedido.id,pedido.cantidad)
+    })
+    socket.on("pedidoEliminar",async pedido=>{
+        const user = userActual(pedido.token)
+        await pedidos.eliminarCarrito(user,pedido.id)
+        pedidosCarrito = await pedidos.getByUsername(user.username)
+        // console.log(pedidosCarrito)
+        io.sockets.emit("pedidosCarrito",pedidosCarrito)
+    })
 
 }) 
 
-module.exports = httpServer;
+module.exports = httpServer; 

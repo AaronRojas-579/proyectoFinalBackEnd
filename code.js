@@ -3,25 +3,29 @@
 
 
 
-const pedidos = require("./service/service.pedidos.js")
-// const dtoPedidos = require("./src/repo/userPedido.dto")
+// const pedidos = require("./service/service.pedidos.js")
+// // const dtoPedidos = require("./src/repo/userPedido.dto")
 
-const nuevoProducto = {
-    nombre:"Chivi",
-    calidad:"Alta",
-    precio:120000
-}
+// const nuevoProducto = {
+//     id:2,
+//     nombre:"ChiviAmor",
+//     calidad:"Alta",
+//     precio:120000
+// }
 
-const user={
-    username:"Aarosadn",
-    password:"234123",
-    email:"aaa@hotmail.com"
-}
+// const user={
+//     username:"Aarosadn",
+//     password:"234123",
+//     email:"aaa@hotmail.com"
+// }
 
-let cantidad = 2
+// let cantidad = 2
 
-// pedidos.save(new dtoPedidos())
+// pedidos.agregarCarrito(user,nuevoProducto,cantidad)
 
-pedidos.agregarCarrito(user,nuevoProducto,cantidad)
+// let index=2
+// let pedids= ["hola",2,3,"chivi",4];
 
-// pedidos.getAll().then(res=>console.log(res))
+// let a = pedids.slice(index,index+1);
+
+// console.log(a)

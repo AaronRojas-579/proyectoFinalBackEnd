@@ -4,9 +4,55 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://unpkg.com/ejs@3.1.8/ejs.min.js"></script>
     <title>Document</title>
 </head>
 <body>
+    
+    <nav>
+        <div class="bienvenida">
+            <h1>Bienvenido/a <%=user.username%> </h1>
+            <div class="img">
+                <img src="<%=user.url%>" alt="foto de perfil">
+            </div>
+        </div>
+        <a class="cerrarSesion" href="/jwt/logout">Cerrar Sesión</a>
+    </nav>
+    
     <h1>Hola soy el Carrito</h1>
+    
+
+    <% if(pedido.pedidos.length !== 0 ){ %>
+        <div id="tabla">
+        <hr>
+<table>
+    <tr>
+        <th>Nombre</th>
+        <th>Cantidad</th>
+        <th>Precio Total</th>
+        <th></th>
+    </tr>
+    <%pedido.pedidos.forEach(elem=>{%>
+        <tr>
+            <td><%=elem.nombre%></td>
+            <td><%=elem.cantidad%></td>
+            <td><%=elem.total%></td>
+            <td>
+                <button class="subirProducto"><a href="/carrito/eliminarCarrito/<%=elem.idProducto%>">Eliminar Producto</a></button>
+            </td>
+        </tr>
+    <%})%>
+</table>
+<hr>
+        </div>
+        <button class="subirProducto"><a href="/carrito/comprar">Comprar</a></button>
+    <%}else{%>
+        <h4>No tiene Productos en su Carrito de compras</h4>
+    <%}%>
+
+    <button class="subirProducto"><a href="/productos">Ver la lista de productos</a></button>
+    
+    <script src="/carrito.js"></script>
+
 </body>
 </html>

@@ -5,6 +5,7 @@ require("dotenv").config()
 
 function generarToken(user){
     const token = jwt.sign({data:user},process.env.PALABRA_SECRETA,{expiresIn:'24h'})
+    // console.log(token)
     return token
 }
 

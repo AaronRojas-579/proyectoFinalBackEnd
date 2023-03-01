@@ -28,13 +28,13 @@ function authAdmin(req, res, next) {
   // console.log(jwt.decode(token))
   if (!token) {
     return res.status(401).json({
-      error: 'not authenticated'
+      error: 'not noseeee'
     });
   }
   jwt.verify(token, process.env.PALABRA_SECRETA, (err, decoded) => {
     if (err) {
       return res.status(403).json({
-        error: 'not authorized'
+        error: 'not nose'
       });
     }
     req.user = decoded.data;//Este trae todos los datos del usuario 

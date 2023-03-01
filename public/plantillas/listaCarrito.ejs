@@ -1,0 +1,20 @@
+<hr>
+<table>
+    <tr>
+        <th>Nombre</th>
+        <th>Cantidad</th>
+        <th>Precio Total</th>
+        <th></th>
+    </tr>
+    <%pedido.pedidos.forEach(elem=>{%>
+        <tr>
+            <td><%=elem.nombre%></td>
+            <td><%=elem.cantidad%></td>
+            <td><%=elem.total%></td>
+            <td>
+                <button onclick="return eliminarProducto(`<%=elem.idProducto%>`)" class="subirProducto">Eliminar Producto</button>
+            </td>
+        </tr>
+    <%})%>
+</table>
+<hr>
