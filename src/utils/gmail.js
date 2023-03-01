@@ -32,7 +32,7 @@ const mailNuevoRegistro = async (objUser)=>{
             <h4 style="color:red">${objUser.tel}</h4>
             `
         })
-        loggerConsola.info(info)
+        // loggerConsola.info(info)
     }catch(error){
         loggerError.error(error)
     }
@@ -54,7 +54,7 @@ const mailCompraCliente =async(user,arrPedidos)=>{
             tel:${process.env.TEL_ADMIN}
             `
         })
-        loggerConsola.info(info)
+        // loggerConsola.info(info)
     }catch(error){
         loggerError.error(error)
     }

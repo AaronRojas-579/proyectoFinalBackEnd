@@ -28,7 +28,7 @@ router.post("/login",async (req,res)=>{
         // console.log(user)
         const access_token = generarToken(user)
         res.cookie("token",access_token)
-        console.log(req.cookies.token)
+        // console.log(req.cookies.token)
         res.redirect("/productos/ejs")
     }else{
         return res.json({error:`credenciales invalidas`})

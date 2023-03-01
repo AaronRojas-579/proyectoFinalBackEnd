@@ -43,6 +43,7 @@ router.get("/comprar",auth,async(req,res)=>{
         await mailCompraAdmin(user,pedido.pedidos)
         await mailCompraCliente(user,pedido.pedidos)
         const numeroVendedor = process.env.TEL_ADMIN
+        await pedidos.eliminarTodoCarrito(user)
         res.render("./pages/compraRealizada.ejs",{numeroVendedor})
     }catch(error){
         loggerError.error(error)
