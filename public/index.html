@@ -4,62 +4,63 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styes/styles.css">
     <title>Servidor</title>
 </head>
 <body>
-    <h1>Hola mundo</h1>
-    <h2>Soy la carpeta Public</h2>
 
-    <div class="form">
-        <form action="/jwt/login" method="POST" autocomplete="off">
-            <h4>Iniciar Sesión</h4>
-            <div>
-                <h4>Nombre de Usuario</h4>
-                <input type="text" name="username" id="username" required>
-            </div>
-            <div>
-                <h4>Contraseña</h4>
-                <input type="password" name="password" id="password" required>
-            </div>
-            <div>
-                <button type="submit" class="boton">Ingresar</button>
-            </div>
-        </form>
-    </div>
-    <div class="form">
-        <form action="/jwt/register" method="POST" autocomplete="off">
-            <h3>Registrate</h3>
-            <div>
-                <h4>Nombre de Usuario</h4>
-                <input type="text" name="username" id="username" required>
-            </div>
-            <div>
-                <h4>Contraseña</h4>
-                <input type="password" name="password" id="password" required>
-            </div>
-            <div>
-                <h4>Correo Electrónico</h4>
-                <input type="email" name="email" id="email" required>
-            </div>
-            <div>
-                <h4>Número de telefono</h4>
-                <p>Incluya los prefijos internacionales (+549)</p>
-                <input type="tel" name="tel" id="tel" required>
-            </div>
-            <div>
-                <h4>Ingrese una Imagen</h4>
-                <input type="url" name="url" id="url" required>
-            </div>
-            <div>
-                <h4>Eres Administrador?</h4>
-                <input type="radio" name="admin" id="admin" value=true> Si
-                <input type="radio" name="admin" id="admin" value=false> No
-            </div> 
-            <div>
-                <button type="submit" class="boton">Registrarse</button>
-            </div>
-        </form>
-    </div>
+    <dvi class="contenedorSesion">
+        <div class="form">
+            <form action="/jwt/login" method="POST" autocomplete="off">
+                <h4>Iniciar Sesión</h4>
+                <div>
+                    <h4>Nombre de Usuario</h4>
+                    <input type="text" name="username" id="username" required>
+                </div>
+                <div>
+                    <h4>Contraseña</h4>
+                    <input type="password" name="password" id="password" required>
+                </div>
+                <div>
+                    <button type="submit" class="boton">Ingresar</button>
+                </div>
+            </form>
+        </div>
+        <div class="form">
+            <form action="/jwt/register" method="POST" autocomplete="off">
+                <h3>Registrate</h3>
+                <div>
+                    <h4>Nombre de Usuario</h4>
+                    <input type="text" name="username" id="username" required>
+                </div>
+                <div>
+                    <h4>Contraseña</h4>
+                    <input type="password" name="password" id="password" required>
+                </div>
+                <div>
+                    <h4>Correo Electrónico</h4>
+                    <input type="email" name="email" id="email" required>
+                </div>
+                <div>
+                    <h4>Número de telefono</h4>
+                    <p>Incluya los prefijos internacionales (+549)</p>
+                    <input type="tel" name="tel" id="tel" required>
+                </div>
+                <div>
+                    <h4>Ingrese una Imagen</h4>
+                    <input type="url" name="url" id="url" required>
+                </div>
+                <div>
+                    <h4>Eres Administrador?</h4>
+                    <input type="radio" name="admin" id="admin" value=true> Si
+                    <input type="radio" name="admin" id="admin" value=false> No
+                </div> 
+                <div>
+                    <button type="submit" class="boton">Registrarse</button>
+                </div>
+            </form>
+        </div>
+    </dvi>
     
 </body>
 </html>

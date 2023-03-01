@@ -16,17 +16,12 @@ class PedidosDB extends daos{
         try{ 
             const pedido = await this.getByUsername(user.username)
             const nuvoProducto = (await productos.getById(idProducto))[0]
-            // console.log(nuvoProducto)
             if(pedido){
                 const index = pedido.pedidos.findIndex(e=>e.nombre == nuvoProducto.nombre)
-                // console.log(index)
                 if(index >= 0){
                     //Existe un pedido
                     const nuevoPedido = new dtoPedido(nuvoProducto,cantidad)
-                    // pedido.pedidos[index] = {...nuevoPedido}
-                    // console.log(pedido)
                     await pedidos.updateById(pedido._id,{pedidos:nuevoPedido})
-                    // console.log(nuvoProducto)
                     loggerConsola.info(`Se actualizo la cantidad de ${nuvoProducto.nombre} al carrito de ${user.username}`)
                 }else{
                     const nuevoPedido = new dtoPedido(nuvoProducto,cantidad);
@@ -51,7 +46,6 @@ class PedidosDB extends daos{
     async eliminarCarrito (user,idProducto){
         try{
             const productoEliminar = (await productos.getById(idProducto))[0]
-            // console.log(productoEliminar)
             const pedido = await this.getByUsername(user.username)
             const nuevoPedidos = pedido.pedidos.filter(e=>e.nombre != productoEliminar.nombre)
             await pedidos.updateById(pedido._id,{pedidos:nuevoPedidos})

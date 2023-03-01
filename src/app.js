@@ -74,8 +74,6 @@ io.on('connection',async (socket) =>{
          io.sockets.emit("productos",productosListar)
      })
     //Configuración del socket.io para el carrito
-    var pedidosCarrito = await pedidos.getAll()
-    socket.emit("pedidosCarrito",pedidosCarrito)
     socket.on("nuevoPedido",async pedido=>{
         const user = userActual(pedido.token)
         await pedidos.agregarCarrito(user,pedido.id,pedido.cantidad)
@@ -83,9 +81,6 @@ io.on('connection',async (socket) =>{
     socket.on("pedidoEliminar",async pedido=>{
         const user = userActual(pedido.token)
         await pedidos.eliminarCarrito(user,pedido.id)
-        pedidosCarrito = await pedidos.getByUsername(user.username)
-        // console.log(pedidosCarrito)
-        io.sockets.emit("pedidosCarrito",pedidosCarrito)
     })
 
 }) 

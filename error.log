@@ -1463,3 +1463,25 @@
     at mailCompraAdmin (C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\utils\gmail.js:71:16)
     at C:\Users\aaron\OneDrive\Escritorio\ProyectoFinal-BackEnd\src\routes\routes.carrito.js:43:15
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-03-01T18:43:08.812] [ERROR] archivo2 - ReferenceError: productos is not defined
+    at verListaProductos (/Users/aaronrojascardenas/Desktop/proyectoFinalBackEnd/src/controllers/controller.productos.js:8:32)
+    at Layer.handle [as handle_request] (/Users/aaronrojascardenas/Desktop/proyectoFinalBackEnd/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/aaronrojascardenas/Desktop/proyectoFinalBackEnd/node_modules/express/lib/router/route.js:144:13)
+    at /Users/aaronrojascardenas/Desktop/proyectoFinalBackEnd/src/middlewares/authJWT.js:21:7
+    at /Users/aaronrojascardenas/Desktop/proyectoFinalBackEnd/node_modules/jsonwebtoken/verify.js:261:12
+    at getSecret (/Users/aaronrojascardenas/Desktop/proyectoFinalBackEnd/node_modules/jsonwebtoken/verify.js:97:14)
+    at Object.module.exports [as verify] (/Users/aaronrojascardenas/Desktop/proyectoFinalBackEnd/node_modules/jsonwebtoken/verify.js:101:10)
+    at auth (/Users/aaronrojascardenas/Desktop/proyectoFinalBackEnd/src/middlewares/authJWT.js:12:9)
+    at Layer.handle [as handle_request] (/Users/aaronrojascardenas/Desktop/proyectoFinalBackEnd/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/aaronrojascardenas/Desktop/proyectoFinalBackEnd/node_modules/express/lib/router/route.js:144:13)
+[2023-03-01T18:43:18.718] [ERROR] archivo2 - ReferenceError: productos is not defined
+    at verListaProductos (/Users/aaronrojascardenas/Desktop/proyectoFinalBackEnd/src/controllers/controller.productos.js:8:32)
+    at Layer.handle [as handle_request] (/Users/aaronrojascardenas/Desktop/proyectoFinalBackEnd/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/aaronrojascardenas/Desktop/proyectoFinalBackEnd/node_modules/express/lib/router/route.js:144:13)
+    at /Users/aaronrojascardenas/Desktop/proyectoFinalBackEnd/src/middlewares/authJWT.js:21:7
+    at /Users/aaronrojascardenas/Desktop/proyectoFinalBackEnd/node_modules/jsonwebtoken/verify.js:261:12
+    at getSecret (/Users/aaronrojascardenas/Desktop/proyectoFinalBackEnd/node_modules/jsonwebtoken/verify.js:97:14)
+    at Object.module.exports [as verify] (/Users/aaronrojascardenas/Desktop/proyectoFinalBackEnd/node_modules/jsonwebtoken/verify.js:101:10)
+    at auth (/Users/aaronrojascardenas/Desktop/proyectoFinalBackEnd/src/middlewares/authJWT.js:12:9)
+    at Layer.handle [as handle_request] (/Users/aaronrojascardenas/Desktop/proyectoFinalBackEnd/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/aaronrojascardenas/Desktop/proyectoFinalBackEnd/node_modules/express/lib/router/route.js:144:13)

@@ -1,0 +1,42 @@
+@import 'variables';
+
+@mixin centrarForm {
+display: flex;
+flex-flow: column nowrap;
+align-items: center;
+justify-content: center;
+gap: 1rem;
+}
+
+@mixin contenedorSesion {
+    display: flex;
+    flex-flow:row wrap;
+    justify-content:center;
+    align-items: center;
+    gap: 1rem;
+}
+@mixin centrarDiv {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin inputStyle {
+    border: $color5 solid;
+    color: $color2;
+    font-family: $fuente;
+    padding: .2rem;
+    border-radius: 2rem 2rem 2rem 2rem;
+
+}
+
+@mixin botonStyle {
+    padding: .6rem;
+    border-radius: 1rem 1rem 1rem 1rem;
+    background-color: $color5;
+    border: $color2;
+    color: $color3;
+    font-family: $fuente;
+    font-size: 1rem;
+}
