@@ -4,12 +4,25 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/styles/stylesIndex.css">
     <title>Logout</title>
 </head>
 <body>
-    <h1>Hasta luego <%=user.username%>!!</h1>
-    <h3>Esperamos que vuelvas pronto!</h3>
-    <h3>Redirigiendo en <span id="time">2</span> segundos</h3>
+    <nav>
+        <div class="bienvenida">
+            <h1>Hasta luego <%=user.username%>!! </h1>
+            <div class="img">
+                <img src="<%=user.url%>" alt="foto de perfil">
+            </div>
+        </div>
+        <h3>Esperamos que vuelvas pronto!</h3>
+    </nav>
+
+    <!-- <h1>Hasta luego <%=user.username%>!!</h1> -->
+
+    <div class="despedidas">
+        <h3 class="despedidaText">Redirigiendo a la página de inicio en <span id="time">2</span> segundos</h3>
+    </div>
     <script src="/logout.js"></script>
 </body>
 </html>

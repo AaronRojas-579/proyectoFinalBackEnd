@@ -73,7 +73,7 @@ body {
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
-  gap: 10rem;
+  gap: 5rem;
 }
 .containerAdmin .chatGlobal {
   display: flex;
@@ -138,6 +138,7 @@ body {
 }
 
 .productosTienda {
+  text-align: center;
   display: flex;
   flex-flow: column nowrap;
   align-items: center;
@@ -215,6 +216,12 @@ body {
 .mostrarProductos button * {
   font-size: 3.2rem;
 }
+.mostrarProductos h1 {
+  color: #93B7BE;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+  font-size: 3.2rem;
+  margin: 2rem;
+}
 
 .containerCliente {
   display: flex;
@@ -236,4 +243,29 @@ body {
 .containerCliente button * {
   text-decoration: none;
   color: #D4F5F5;
+}
+
+.despedidas {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+}
+.despedidas .despedidaText {
+  color: #554348;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+  font-size: 3.2rem;
+  text-align: center;
+  padding: 2rem;
+}
+
+.contenedorUpdate {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+.contenedorUpdate * {
+  margin-bottom: 1rem;
 }/*# sourceMappingURL=stylesIndex.css.map */

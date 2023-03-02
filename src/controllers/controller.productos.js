@@ -24,9 +24,10 @@ const adminProductos = (req,res)=>{
 
 const renderFormUpdate = async (req,res)=>{
     try{
+        const user = req.user
         const {id} = req.params
         const producto = (await productos.getById(id))[0]
-        res.render("./pages/formUpdate.ejs",{producto})
+        res.render("./pages/formUpdate.ejs",{producto,user})
     }catch(error){
         loggerError.error(error)
     }

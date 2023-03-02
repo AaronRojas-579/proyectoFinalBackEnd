@@ -24,7 +24,7 @@ body{
             flex-flow: row wrap;
             justify-content: center;
             align-items: center;
-            gap: 10rem;
+            gap: 5rem;
         }
     }
     .chatGlobal{
@@ -57,6 +57,7 @@ body{
 
 .productosTienda{
     // width: auto;
+    text-align: center;
     @include centrarForm;
     background-color: $color2;
     padding: 3rem;
@@ -99,6 +100,13 @@ body{
             font-size: 3.2rem;
         }
     }
+    h1{
+        color: $color1;
+        font-family: $fuente;
+        font-size: 3.2rem;
+        margin: 2rem
+    }
+
 }
 
 .containerCliente{
@@ -107,5 +115,24 @@ body{
     button{
         @include botonStyle;
         margin: 1rem;
+    }
+}
+
+.despedidas{
+    @include centrarDiv;
+    .despedidaText{
+        color: $color2;
+        font-family: $fuente;
+        font-size: 3.2rem;
+        text-align: center;
+        padding: 2rem;
+    }
+}
+
+.contenedorUpdate{
+    @include centrarDiv;
+    margin-top: 2rem;
+    *{
+        margin-bottom: 1rem;
     }
 }

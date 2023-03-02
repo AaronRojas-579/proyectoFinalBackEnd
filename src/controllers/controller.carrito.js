@@ -11,7 +11,10 @@ const mostrarCarrito = async (req,res)=>{
         if(pedido){
             res.render("./pages/carrito.ejs",{user,pedido})
         }else{
-            res.send(`No tenes nada en tu carrito`)
+            const pedido = {
+                pedidos : []
+            }
+            res.render("./pages/carrito.ejs",{user,pedido})
         }
     }catch(error){
         loggerError.error(error)
@@ -37,7 +40,7 @@ const carritoComprar = async(req,res)=>{
         await mailCompraCliente(user,pedido.pedidos)
         const numeroVendedor = process.env.TEL_ADMIN
         await pedidos.eliminarTodoCarrito(user)
-        res.render("./pages/compraRealizada.ejs",{numeroVendedor})
+        res.render("./pages/compraRealizada.ejs",{numeroVendedor,user})
     }catch(error){
         loggerError.error(error)
     }
