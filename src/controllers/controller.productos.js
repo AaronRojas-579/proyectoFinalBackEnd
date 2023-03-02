@@ -15,7 +15,8 @@ const verListaProductos = async (req,res)=>{
 
 const adminProductos = (req,res)=>{
     try{
-        res.render("./pages/index.ejs")
+        const user = req.user;
+        res.render("./pages/index.ejs",{user})
     }catch(error){
         loggerError.error(error)
     }

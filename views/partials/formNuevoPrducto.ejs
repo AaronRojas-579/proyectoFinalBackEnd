@@ -1,4 +1,5 @@
-<form onsubmit="return addProducto(this)" id="formNuevoProducto" autocomplete="off" >
+<form class="productosTienda" onsubmit="return addProducto(this)" id="formNuevoProducto" autocomplete="off" >
+    <h2>Ingrese un Nuevo Producto</h2>
     <!-- Campo nombre del Producto -->
     <div class="inputFormulario">
         <label for="nombre" class="textForm">Nombre</label>
@@ -19,6 +20,6 @@
         <label for="precio" class="textForm">Precio</label>
         <input type="number" id="precio" name="precio" required>
     </div>
-    <!-- Boton Submit -->
     <button class="subir">Crear</button>
+    <!-- Boton Submit -->
 </form>

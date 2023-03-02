@@ -1,0 +1,252 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #93B7BE;
+  width: 100;
+  height: 100vh;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+}
+body .contenedorSesion {
+  width: 75vw;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+body .contenedorSesion .form {
+  background-color: #554348;
+  padding: 1.5rem;
+  border-radius: 5rem 0 5rem 0;
+}
+body .contenedorSesion .form * {
+  color: #93B7BE;
+  margin-bottom: 0.5rem;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+}
+body .contenedorSesion .form input {
+  border: #747578 solid;
+  color: #554348;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+  padding: 0.2rem;
+  border-radius: 2rem 2rem 2rem 2rem;
+}
+body .contenedorSesion .form button {
+  padding: 0.6rem;
+  border-radius: 1rem 1rem 1rem 1rem;
+  background-color: #747578;
+  border: #554348;
+  color: #D4F5F5;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+  font-size: 1rem;
+}
+body .contenedorSesion .form button * {
+  text-decoration: none;
+  color: #D4F5F5;
+}
+body .contenedorSesion form {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+}
+body .contenedorSesion form div {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  background-color: #93B7BE;
+  padding-bottom: 3rem;
+}
+
+.containerAdmin {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+}
+.containerAdmin .containerAdminProductos {
+  margin: 4.5rem 0;
+}
+.containerAdmin .containerAdminProductos .adminProductos {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10rem;
+}
+.containerAdmin .chatGlobal {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: #554348;
+  padding: 2.5rem;
+  border-radius: 5rem 0 5rem 0;
+  gap: 2rem;
+}
+.containerAdmin .chatGlobal * {
+  color: #93B7BE;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+}
+.containerAdmin .chatGlobal .formMensaje {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding: 0.6rem;
+  border-radius: 1rem 1rem 1rem 1rem;
+  background-color: #747578;
+  border: #554348;
+  color: #D4F5F5;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+  font-size: 1rem;
+  padding: 3rem;
+}
+.containerAdmin .chatGlobal .formMensaje input {
+  border: #747578 solid;
+  color: #554348;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+  padding: 0.2rem;
+  border-radius: 2rem 2rem 2rem 2rem;
+}
+.containerAdmin .chatGlobal .formMensaje * {
+  text-decoration: none;
+  color: #D4F5F5;
+}
+.containerAdmin .chatGlobal .formMensaje button {
+  padding: 0.6rem;
+  border-radius: 1rem 1rem 1rem 1rem;
+  background-color: #747578;
+  border: #554348;
+  color: #D4F5F5;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+  font-size: 1rem;
+  background-color: #554348;
+}
+.containerAdmin .chatGlobal .formMensaje button * {
+  text-decoration: none;
+  color: #D4F5F5;
+}
+.containerAdmin .chatGlobal #mensaje {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.productosTienda {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  background-color: #554348;
+  padding: 3rem;
+  border-radius: 5rem 0 5rem 0;
+}
+.productosTienda * {
+  color: #93B7BE;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+}
+.productosTienda div {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+.productosTienda .inputFormulario {
+  gap: 0;
+}
+.productosTienda .inputFormulario label {
+  margin-bottom: 0.5rem;
+}
+.productosTienda .inputFormulario input {
+  border: #747578 solid;
+  color: #554348;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+  padding: 0.2rem;
+  border-radius: 2rem 2rem 2rem 2rem;
+}
+.productosTienda button {
+  padding: 0.6rem;
+  border-radius: 1rem 1rem 1rem 1rem;
+  background-color: #747578;
+  border: #554348;
+  color: #D4F5F5;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+  font-size: 1rem;
+}
+.productosTienda button * {
+  text-decoration: none;
+  color: #D4F5F5;
+}
+
+.mostrarProductos {
+  width: 100%;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  height: 27rem;
+  background-image: url("https://images.unsplash.com/photo-1544441893-675973e31985?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mostrarProductos button {
+  padding: 0.6rem;
+  border-radius: 1rem 1rem 1rem 1rem;
+  background-color: #747578;
+  border: #554348;
+  color: #D4F5F5;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+  font-size: 1rem;
+  border-radius: 4rem 4rem 4rem 4rem;
+  padding: 1rem 2rem;
+}
+.mostrarProductos button * {
+  text-decoration: none;
+  color: #D4F5F5;
+}
+.mostrarProductos button * {
+  font-size: 3.2rem;
+}
+
+.containerCliente {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4rem;
+}
+.containerCliente button {
+  padding: 0.6rem;
+  border-radius: 1rem 1rem 1rem 1rem;
+  background-color: #747578;
+  border: #554348;
+  color: #D4F5F5;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+  font-size: 1rem;
+  margin: 1rem;
+}
+.containerCliente button * {
+  text-decoration: none;
+  color: #D4F5F5;
+}/*# sourceMappingURL=styles.css.map */

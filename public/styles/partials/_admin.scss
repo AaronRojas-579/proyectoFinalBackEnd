@@ -1,0 +1,111 @@
+@import './variables';
+@import './mixins';
+
+body{
+    background-color: $color1;
+    padding-bottom:3rem ;
+}
+
+.containerAdmin{
+    width: 100%;
+    height: auto;
+    @include centrarDiv;
+    .containerAdminProductos{
+        // width: 100%;
+        // display: flex;
+        // flex-flow: row wrap;
+        // justify-content: center;
+        // align-items: center;
+        // gap: 3rem;
+        margin: 4.5rem 0;
+        .adminProductos{
+            width: 100%;
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: center;
+            align-items: center;
+            gap: 10rem;
+        }
+    }
+    .chatGlobal{
+        *{
+            color: $color1;
+            font-family: $fuente;
+        }
+        @include centrarDiv;
+        background-color:$color2;
+        padding: 2.5rem;
+        border-radius: 5rem 0 5rem 0;
+        gap:2rem;
+        .formMensaje{
+            @include centrarForm;
+            input{
+                @include inputStyle;
+            }
+            @include botonStyle;
+            padding:3rem;
+            button{
+                @include botonStyle;
+                background-color: $color2;
+            }
+        }
+        #mensaje{
+            @include centrarForm
+        }
+    }
+}
+
+.productosTienda{
+    // width: auto;
+    @include centrarForm;
+    background-color: $color2;
+    padding: 3rem;
+    border-radius: 5rem 0 5rem 0;
+    *{
+        color: $color1;
+        font-family: $fuente;
+    }
+    div{
+        @include centrarForm;
+        // margin:1rem;
+        // gap: 2rem;
+    }
+    .inputFormulario{
+        gap:0;
+        label{
+            margin-bottom:.5rem ;
+        }
+        input{
+            @include inputStyle
+        }
+    }
+    button{
+        @include botonStyle
+    }
+}
+.mostrarProductos{
+    width: 100%;
+    @include centrarDiv;
+    height: 27rem;
+    background-image: url('https://images.unsplash.com/photo-1544441893-675973e31985?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    button{
+        @include botonStyle;
+        border-radius: 4rem 4rem 4rem 4rem;
+        padding: 1rem 2rem;
+        *{
+            font-size: 3.2rem;
+        }
+    }
+}
+
+.containerCliente{
+    @include centrarDiv;
+    margin-top: 4rem;
+    button{
+        @include botonStyle;
+        margin: 1rem;
+    }
+}

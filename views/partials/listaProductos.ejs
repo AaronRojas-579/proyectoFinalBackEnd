@@ -1,20 +1,21 @@
-<div class="listaProductos">
-    <hr>
-    <table>
-        <tr>
-            <th>Nombre</th>
-            <th>Calidad</th>
-            <th>Precio</th>
-        </tr>
-        <%productoslista.forEach(elem=>{%>
+<div class="productosTienda">
+    <h2>Lista de Productos en la tienda</h2>
+    <div id="listaProductosAdmin">
+        <table>
             <tr>
-                <td><%=elem.nombre%></td>
-                <td><%=elem.calidad%></td>
-                <td><%=elem.precio%></td>
-                <td><button class="subirProducto" onclick="return restarCarrito(`<%=elem._id%>`)">-</button> <span id="<%=elem._id%>">0</span> <button class="subirProducto" onclick="return sumarCarrito(`<%=elem._id%>`)">+</button></td>
-                <td><button class="subirProducto" onclick="return agregarCarrito(`<%=elem._id%>`)">Agregar al Carrito</button></td>
+                <th>Nombre</th>
+                <th>Calidad</th>
+                <th>Precio</th>
             </tr>
-        <%})%>
-    </table>
-    <hr>
+            <%productoslista.forEach(elem=>{%>
+                <tr>
+                    <td><%=elem.nombre%></td>
+                    <td><%=elem.calidad%></td>
+                    <td><%=elem.precio%></td>
+                    <td><button class="subirProducto" onclick="return restarCarrito(`<%=elem._id%>`)">-</button> <span id="<%=elem._id%>">0</span> <button class="subirProducto" onclick="return sumarCarrito(`<%=elem._id%>`)">+</button></td>
+                    <td><button class="subirProducto" onclick="return agregarCarrito(`<%=elem._id%>`)">Agregar al Carrito</button></td>
+                </tr>
+            <%})%>
+        </table>
+    </div>
 </div>

@@ -37,7 +37,7 @@ function makeHtmlList (mensajes){
     const html = mensajes.map(elem=>{
         return(`
         <div>
-        <strong class="chatTitle">${elem.author.nombre}</strong> <span style="color:brown">${elem.author.date}</span> : <i style="color:green">${elem.text}</i>
+        <strong class="chatTitle">${elem.author.nombre}</strong> <span style="color:white">${elem.author.date}</span> : <i>${elem.text}</i>
         </div>
         `)
     }).join(`</br>`)
